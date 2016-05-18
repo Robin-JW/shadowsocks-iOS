@@ -26,6 +26,7 @@
 @property (nonatomic, strong, readonly) NSString *location;
 @property (nonatomic, strong, readonly) NSString *organizer;
 @property (nonatomic, strong, readonly) NSArray *attendees;
+@property (nonatomic, strong, readonly) NSString *description_t;
 @property (nonatomic, strong, readonly) NSString *description;
 @property (nonatomic, readonly) double latitude;
 @property (nonatomic, readonly) double longitude;
