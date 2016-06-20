@@ -25,3 +25,14 @@ Please visit [issue tracker](https://github.com/shadowsocks/shadowsocks-iOS/issu
 Mailing list: http://groups.google.com/group/shadowsocks
 
 Also see [troubleshooting](https://github.com/clowwindy/shadowsocks/wiki/Troubleshooting)
+
+---
+### ⚠️⚠️⚠️ How to run?
+> you need git clone submodule to run the project
+
+how to git clone submodule?
+
+```
+git submodule init
+git submodule update
+```
